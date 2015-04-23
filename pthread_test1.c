@@ -1,6 +1,7 @@
 /***************************************
  * Filename: thread_test.c
  * Title: Creating/terminating threads(1)
+ * email : new-mail@lge.com
  * Desc: 쓰레드 생성 제거 예제
  * Revision History
  * 
