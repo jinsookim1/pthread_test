@@ -1,4 +1,7 @@
 /***************************************
+ * Added a new footer [issue53]
+ * finished a new footer [issue53]
+ *
  * Filename: thread_test.c
  * Title: Creating/terminating threads(1)
  * email : new-mail@lge.com
